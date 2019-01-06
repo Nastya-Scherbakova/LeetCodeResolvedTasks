@@ -1,0 +1,11 @@
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\bin\Debug\netcoreapp2.1\LeetCodeResolvedTasks.deps.json
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\bin\Debug\netcoreapp2.1\LeetCodeResolvedTasks.runtimeconfig.json
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\bin\Debug\netcoreapp2.1\LeetCodeResolvedTasks.runtimeconfig.dev.json
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\bin\Debug\netcoreapp2.1\LeetCodeResolvedTasks.dll
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\bin\Debug\netcoreapp2.1\LeetCodeResolvedTasks.pdb
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\obj\Debug\netcoreapp2.1\LeetCodeResolvedTasks.csprojAssemblyReference.cache
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\obj\Debug\netcoreapp2.1\LeetCodeResolvedTasks.csproj.CoreCompileInputs.cache
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\obj\Debug\netcoreapp2.1\LeetCodeResolvedTasks.AssemblyInfoInputs.cache
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\obj\Debug\netcoreapp2.1\LeetCodeResolvedTasks.AssemblyInfo.cs
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\obj\Debug\netcoreapp2.1\LeetCodeResolvedTasks.dll
+C:\Projects\LeetCode\LeetCodeResolvedTasks\LeetCodeResolvedTasks\obj\Debug\netcoreapp2.1\LeetCodeResolvedTasks.pdb

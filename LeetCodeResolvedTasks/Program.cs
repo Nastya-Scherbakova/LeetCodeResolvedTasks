@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LeetCodeResolvedTasks.Hard.MedianofTwoSortedArrays;
+using System;
 
 namespace LeetCodeResolvedTasks
 {
@@ -6,7 +7,9 @@ namespace LeetCodeResolvedTasks
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Solution hard = new Solution();
+            Console.WriteLine(hard.FindMedianSortedArrays(new []{ 1, 2}, new []{ 3, 4}));
+            Console.ReadLine();
         }
     }
 }

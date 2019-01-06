@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\LeetCode\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks.csproj",
+      "projectUniqueName": "C:\\Projects\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks.csproj",
       "projectName": "LeetCodeResolvedTasks",
-      "projectPath": "C:\\Projects\\LeetCode\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks.csproj",
+      "projectPath": "C:\\Projects\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks.csproj",
       "packagesPath": "C:\\Users\\Anastasia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\LeetCode\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks\\obj\\",
+      "outputPath": "C:\\Projects\\LeetCodeResolvedTasks\\LeetCodeResolvedTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
